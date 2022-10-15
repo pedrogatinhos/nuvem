@@ -1,0 +1,11 @@
+.container {
+    background-color: rgb(220, 150, 232);
+    width: 500px;
+    height: 430px;
+    border-radius: 15px;
+    margin-left: 500px;
+    align-items: center;
+    text-align: center;
+    cursor:pointer;
+  
+}
